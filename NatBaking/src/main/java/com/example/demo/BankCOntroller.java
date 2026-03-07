@@ -12,7 +12,7 @@ public class BankCOntroller {
 		CustomerService cs = new CustomerService();
 		String msg = cs.saveCustomerInDb(c);
 
-		return msg;
+		return messages;
 	}
 }
 
