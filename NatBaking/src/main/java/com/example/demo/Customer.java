@@ -5,7 +5,7 @@ public class Customer {
 	private String name;
 	private int age;
 	private int adhar;
-	private String panCard;
+	private String panNo;
 	private String email;
 	private String address;
 	public String getName() {
