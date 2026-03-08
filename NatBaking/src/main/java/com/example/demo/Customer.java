@@ -6,7 +6,7 @@ public class Customer {
 	private int age;
 	private int adhar;
 	private String panNo;
-	private String email;
+
 	private String address;
 	public String getName() {
 		return name;
