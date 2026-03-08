@@ -4,7 +4,7 @@ public class Customer {
 
 	private String name;
 	private int age;
-	private int adhar;
+	
 	private String panNo;
 	private String email;
 	private String address;
